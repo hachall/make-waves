@@ -1,0 +1,9 @@
+HTTrack3.49-2 launched on Fri, 03 Aug 2018 12:16:21 at http://www.makeproductions.com
+(winhttrack http://www.makeproductions.com -O "/Users/hamish/websites/Make Waves" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:19:48	Error: 	"Method Not Allowed" (405) at link www.makeproductions.com/xmlrpc.php (from www.makeproductions.com/)

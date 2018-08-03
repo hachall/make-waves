@@ -1,0 +1,7 @@
+Mirror in progress since Fri, 03 Aug 2018 12:16:21 .. please wait!
+winhttrack http://www.makeproductions.com -O ""/Users/hamish/websites/Make Waves"" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=78937
+UID=501
+GID=501
+START=1533294981
